@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>demo</name>
-	<description>Demo project for Spring Boot ahihi</description>
+	<description>Demo project for Spring Boot ahehe</description>
 
 	<properties>
 		<java.version>1.8</java.version>
